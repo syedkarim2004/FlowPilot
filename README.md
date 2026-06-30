@@ -179,17 +179,7 @@ The app will be available at `http://localhost:5173`.
 
 ---
 
-## 📸 Screenshots
 
-| Login | Dashboard |
-|---|---|
-| ![Login](docs/assets/login.png) | ![Dashboard](docs/assets/dashboard.png) |
-
-| Kanban Workspace | Rescue Mode |
-|---|---|
-| ![Kanban](docs/assets/kanban.png) | ![Rescue Mode](docs/assets/rescue-mode.png) |
-
----
 
 ## 🧪 Project Status
 
